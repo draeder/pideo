@@ -1,2 +1,2 @@
 # pideo
-A chromium browser extension to pop out any video
+> A chromium browser extension to pop out any video
